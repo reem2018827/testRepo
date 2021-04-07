@@ -9,4 +9,13 @@ public class Greet {
     public void Evening() {
         System.out.println("Good evening!");
     }
+    public void Night() {
+        System.out.println("Good night!");
+    }
+    public void Bye() {
+        System.out.println("Goodbye!");
+    }
+    public void Hello() {
+        System.out.println("Hello!");
+    }
 }
