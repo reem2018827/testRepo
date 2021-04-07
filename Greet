@@ -9,5 +9,4 @@ public class Greet {
     public void Evening() {
         System.out.println("Good evening!");
     }
-    
 }
