@@ -1,0 +1,13 @@
+//javadoc for class
+public class Greet {
+    public void Morning() {
+        System.out.println("Good morning!");
+    }
+    public void Afternoon() {
+        System.out.println("Good afternoon!");
+    }
+    public void Evening() {
+        System.out.println("Good evening!");
+    }
+    
+}
